@@ -1,0 +1,146 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 2;
+ color: rgb(42, 180, 0);   
+background-color: rgb(37, 37, 37);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+background-color: rgba(0, 0, 0, 0.767);  
+padding: 4px;  
+text-align: center;
+display: flex;
+justify-content: center;
+}
+#rodape{
+    padding: 5px;
+    background-color: rgba(6, 175, 0, 0.527);
+    text-align: center;
+}
+
+
+#icon{
+    height: 102px;
+    width: 102px;
+}
+
+#imagem1{
+font-size: 30px;
+width: 840px;
+height: 600px;
+}
+#texto1{
+font-size: 20px;
+margin: 50px;    
+}
+
+
+#imagem2{
+padding: 100px;
+font-size: 15px;    
+}
+
+#imagem_noticia{
+    font-size: 10px;
+    
+    height: 102px;
+    width: 102px;
+}
+
+#imagem_noticia1{
+    height: 102px;
+    width: 102px;
+}
+
+
+#noticias, h2{
+    text-align: center;
+}
+
+#sobre{
+    display: flex;
+}
+
+
+#viloes{
+color: rgb(255, 0, 0);  
+background-color: rgb(0, 0, 0);
+padding: 20px;
+font-size: 20px; 
+
+
+}
+
+.imagem_vilao{
+    height: 300px;
+    width: 500px;
+    
+}
+
+.texto_vilao{
+font-size: 15px;
+padding:50px;
+text-align: center;
+}
+
+#subtitulo {
+    font-size: 30px;
+    text-align: left;
+}
+
+#vilao{
+display: flex;
+color: rgb(255, 255, 255);       
+}
+
+.box_viloes{
+    text-align: center;
+    padding: 10px;
+}
+
+#viloes{
+    color: rgb(255, 255, 255);   
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 20px; 
+    
+    
+    }
+    
+    .imagem_aliado{
+        height: 300px;
+        width: 500px;
+        
+        
+    }
+    
+    .texto_aliado{
+    font-size: 15px;
+    padding:50px;
+    display: flex;
+    color: rgb(255, 255, 255);  
+    }
+    
+    #subtitulo {
+        font-size: 30px;
+        text-align: left;
+    }
+    
+    #aliados{
+    color: rgb(255, 255, 255);  
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;   
+    }
+    
+    #aliado{
+    display: flex;
+    }
+
+    .box_aliado{
+        text-align: center;
+        padding: 10px;
+        color: rgb(255, 255, 255);  
+    }
